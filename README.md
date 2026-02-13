@@ -138,4 +138,4 @@ This project showcases practical skills in:
 - Dashboard design
 
 -  Insight communication
-```bash
+```
