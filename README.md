@@ -107,19 +107,19 @@ pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary
 
 # Run Steps
 
-Open Jupyter Notebook
+1. Open Jupyter Notebook
 
-Load the dataset file into project folder
+2. Load the dataset file into project folder
 
-Run EDA and cleaning notebook
+3. Run EDA and cleaning notebook
 
-Configure PostgreSQL credentials
+4. Configure PostgreSQL credentials
 
-Execute database upload script
+5. Execute database upload script
 
-Run SQL queries
+6. Run SQL queries
 
-Open Power BI file to view dashboard
+7. Open Power BI file to view dashboard
 
 Review report and presentation
 
@@ -127,15 +127,15 @@ Review report and presentation
 
 This project showcases practical skills in:
 
-Data cleaning
+- Data cleaning
 
-EDA
+- EDA
 
-SQL analytics
+- SQL analytics
 
-Database integration
+- Database integration
 
-Dashboard design
+- Dashboard design
 
--- Insight communication
+-  Insight communication
 ```bash
