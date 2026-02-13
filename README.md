@@ -102,5 +102,40 @@ Executed analytical SQL queries such as:
 ### Requirements
 Install required Python packages:
 
-```bash
+
 pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2-binary
+
+# Run Steps
+
+Open Jupyter Notebook
+
+Load the dataset file into project folder
+
+Run EDA and cleaning notebook
+
+Configure PostgreSQL credentials
+
+Execute database upload script
+
+Run SQL queries
+
+Open Power BI file to view dashboard
+
+Review report and presentation
+
+📌 Project Value
+
+This project showcases practical skills in:
+
+Data cleaning
+
+EDA
+
+SQL analytics
+
+Database integration
+
+Dashboard design
+
+-- Insight communication
+```bash
